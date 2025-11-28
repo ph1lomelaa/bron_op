@@ -10,4 +10,4 @@ COPY . .
 ENV PYTHONUNBUFFERED=1
 
 # ВАЖНО: тут путь к твоему main
-CMD ["python", "pligrim_bot/main.py"]
+CMD ["python", "main.py"]
